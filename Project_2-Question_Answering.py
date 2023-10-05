@@ -1,5 +1,6 @@
 #This code is based on an online course by Andrei Dumitrescu (Crystal Mind Academy)
 
+#This program will be able to read pdf, txt, docx files and will be able to answer questions based on that document
 import streamlit as st
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.vectorstores import Chroma
