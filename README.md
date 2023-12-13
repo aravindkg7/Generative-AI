@@ -1,0 +1,1 @@
+This repository contains notebooks and python file that uses Langchain as a tool to implement several use cases using LLMs from OpenAI and HuggingFace, based on online courses. In some use cases, vector databases such as Pinecone and Chroma is demonstrated.
